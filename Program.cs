@@ -9,8 +9,3 @@ if (numero < 0)
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("Você digitou um número negativo.");
     Console.ResetColor();
-}
-else
-{
-    Console.WriteLine();
-}
